@@ -1,0 +1,170 @@
+[2023-12-24 09:22:25.825] [debug] [WCF] [log.cpp::33::InitLogger] InitLogger with debug level
+[2023-12-24 09:22:25.826] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2023-12-24 09:22:25.832] [info] [WCF] [rpc_server.cpp::970::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2023-12-24 09:22:25.858] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2023-12-24 09:22:25.858] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:22:25.862] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2023-12-24 09:22:25.863] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 23
+[2023-12-24 09:22:25.865] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 2
+[2023-12-24 09:22:25.869] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:22:25.871] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x12[Functions_FUNC_GET_CONTACTS] length: 2
+[2023-12-24 09:22:25.873] [info] [WCF] [rpc_server.cpp::447::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2023-12-24 09:22:25.876] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:22:25.876] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:22:25.876] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 941
+[2023-12-24 09:22:36.210] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: 1
+[2023-12-24 09:22:36.211] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 278
+[2023-12-24 09:22:37.432] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <msg>
+<op id='4'>
+<username>newsapp,39182538551@chatroom,34624702894@chatroom,8516051765@chatroom,wxid_2hlw5d0mkho441,filehelper,34511704834@chatroom,21076254970@chatroom,20684253519@chatroom,wxid_vp5g63wbe1il21,wxid_76a5he7vng4u12,wxid_653nkdvhte7f12,notifymessage,wxid_f931455p4pmy12,gh_3dfda90e39d6,wxid_eaqc2awcscu022,weixin</username>
+<unreadchatlist>
+<chat>
+<username>newsapp</username>
+<lastreadtime>1703375910</lastreadtime>
+</chat>
+<chat>
+<username>wxid_2hlw5d0mkho441</username>
+<lastreadtime>1703262330</lastreadtime>
+</chat>
+<chat>
+<username>gh_3dfda90e39d6</username>
+<lastreadtime>1701080027</lastreadtime>
+</chat>
+</unreadchatlist>
+<hasreadchatlist>
+</hasreadchatlist>
+<unreadfunctionlist>
+</unreadfunctionlist>
+<hasreadfunctionlist>
+</hasreadfunctionlist>
+</op>
+</msg>
+[2023-12-24 09:22:37.432] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 993
+[2023-12-24 09:22:37.560] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <msg>
+<op id='4'>
+<username>newsapp,39182538551@chatroom,34624702894@chatroom,8516051765@chatroom,wxid_2hlw5d0mkho441,filehelper,34511704834@chatroom,21076254970@chatroom,20684253519@chatroom,wxid_vp5g63wbe1il21,wxid_76a5he7vng4u12,wxid_653nkdvhte7f12,notifymessage,wxid_f931455p4pmy12,gh_3dfda90e39d6,wxid_eaqc2awcscu022,weixin</username>
+<unreadchatlist>
+<chat>
+<username>newsapp</username>
+<lastreadtime>1703375910</lastreadtime>
+</chat>
+<chat>
+<username>wxid_2hlw5d0mkho441</username>
+<lastreadtime>1703262330</lastreadtime>
+</chat>
+<chat>
+<username>gh_3dfda90e39d6</username>
+<lastreadtime>1701080027</lastreadtime>
+</chat>
+</unreadchatlist>
+<hasreadchatlist>
+</hasreadchatlist>
+<unreadfunctionlist>
+</unreadfunctionlist>
+<hasreadfunctionlist>
+</hasreadfunctionlist>
+</op>
+</msg>
+[2023-12-24 09:22:37.560] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 993
+[2023-12-24 09:22:37.561] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <msg>
+<op id='4'>
+<username>newsapp,39182538551@chatroom,34624702894@chatroom,8516051765@chatroom,wxid_2hlw5d0mkho441,filehelper,34511704834@chatroom,21076254970@chatroom,20684253519@chatroom,wxid_vp5g63wbe1il21,wxid_76a5he7vng4u12,wxid_653nkdvhte7f12,notifymessage,wxid_f931455p4pmy12,gh_3dfda90e39d6,wxid_eaqc2awcscu022,weixin</username>
+<unreadchatlist>
+<chat>
+<username>newsapp</username>
+<lastreadtime>1703375910</lastreadtime>
+</chat>
+<chat>
+<username>wxid_2hlw5d0mkho441</username>
+<lastreadtime>1703262330</lastreadtime>
+</chat>
+<chat>
+<username>gh_3dfda90e39d6</username>
+<lastreadtime>1701080027</lastreadtime>
+</chat>
+</unreadchatlist>
+<hasreadchatlist>
+</hasreadchatlist>
+<unreadfunctionlist>
+</unreadfunctionlist>
+<hasreadfunctionlist>
+</hasreadfunctionlist>
+</op>
+</msg>
+[2023-12-24 09:22:37.562] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 993
+[2023-12-24 09:22:39.887] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2023-12-24 09:22:39.888] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:22:39.963] [error] [WCF] [rpc_server.cpp::981::RunServer] nng_recv error: Object closed
+[2023-12-24 09:22:39.963] [debug] [WCF] [rpc_server.cpp::1011::RunServer] Leave RunServer
+[2023-12-24 09:22:40.977] [info] [WCF] [rpc_server.cpp::1038::RpcStopServer] Server stoped.
+[2023-12-24 09:28:06.885] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2023-12-24 09:28:06.888] [info] [WCF] [rpc_server.cpp::970::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2023-12-24 09:28:06.913] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2023-12-24 09:28:06.913] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:28:06.915] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2023-12-24 09:28:06.915] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 23
+[2023-12-24 09:28:06.924] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 2
+[2023-12-24 09:28:06.925] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:28:06.927] [info] [WCF] [rpc_server.cpp::447::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2023-12-24 09:28:06.928] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x12[Functions_FUNC_GET_CONTACTS] length: 2
+[2023-12-24 09:28:06.930] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:28:06.930] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:28:06.931] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 941
+[2023-12-24 09:28:19.184] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: 1
+[2023-12-24 09:28:19.185] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 278
+[2023-12-24 09:28:21.094] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2023-12-24 09:28:21.095] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:28:21.198] [error] [WCF] [rpc_server.cpp::981::RunServer] nng_recv error: Object closed
+[2023-12-24 09:28:21.198] [debug] [WCF] [rpc_server.cpp::1011::RunServer] Leave RunServer
+[2023-12-24 09:28:22.210] [info] [WCF] [rpc_server.cpp::1038::RpcStopServer] Server stoped.
+[2023-12-24 09:29:42.841] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2023-12-24 09:29:42.844] [info] [WCF] [rpc_server.cpp::970::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2023-12-24 09:29:42.884] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2023-12-24 09:29:42.884] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:29:42.886] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2023-12-24 09:29:42.886] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 23
+[2023-12-24 09:29:42.888] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 2
+[2023-12-24 09:29:42.889] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:29:42.894] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x12[Functions_FUNC_GET_CONTACTS] length: 2
+[2023-12-24 09:29:42.894] [info] [WCF] [rpc_server.cpp::447::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2023-12-24 09:29:42.904] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:29:42.906] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:29:42.906] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 941
+[2023-12-24 09:29:54.815] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: @残梦 打劫
+[2023-12-24 09:29:54.815] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 345
+[2023-12-24 09:29:56.058] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: @阿凯 
+人家已经穷的叮当响了！
+他的余额仅剩：0 分
+[2023-12-24 09:29:56.059] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 410
+[2023-12-24 09:29:59.315] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: @阿凯
+亲爱的，你是如此调皮捣蛋！就算是打劫，我也愿意被你抢走。让我们共享这个独特的时刻，让爱和欢笑填满我们的日子。无论是你的玩笑还是你的淘气，都让我感到陶醉和幸福。你是我生活中最宝贝的财富，我愿意被你的爱掠夺。爱你！
+[2023-12-24 09:29:59.316] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 607
+[2023-12-24 09:30:15.743] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2023-12-24 09:30:15.744] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:30:15.826] [error] [WCF] [rpc_server.cpp::981::RunServer] nng_recv error: Object closed
+[2023-12-24 09:30:15.826] [debug] [WCF] [rpc_server.cpp::1011::RunServer] Leave RunServer
+[2023-12-24 09:30:16.837] [info] [WCF] [rpc_server.cpp::1038::RpcStopServer] Server stoped.
+[2023-12-24 09:30:20.234] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2023-12-24 09:30:20.237] [info] [WCF] [rpc_server.cpp::970::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2023-12-24 09:30:20.280] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2023-12-24 09:30:20.280] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:30:20.281] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2023-12-24 09:30:20.281] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 23
+[2023-12-24 09:30:20.285] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 2
+[2023-12-24 09:30:20.289] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:30:20.295] [info] [WCF] [rpc_server.cpp::447::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2023-12-24 09:30:20.296] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x12[Functions_FUNC_GET_CONTACTS] length: 2
+[2023-12-24 09:30:20.299] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:30:20.299] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[17]
+[2023-12-24 09:30:20.299] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 941
+[2023-12-24 09:30:33.492] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: @小钻风 打劫
+[2023-12-24 09:30:33.493] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 361
+[2023-12-24 09:30:34.369] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: @阿凯 
+人家已经穷的叮当响了！
+他的余额仅剩：-79.782 分
+[2023-12-24 09:30:34.369] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 416
+[2023-12-24 09:30:41.031] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2023-12-24 09:30:41.031] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2023-12-24 09:30:41.145] [error] [WCF] [rpc_server.cpp::981::RunServer] nng_recv error: Object closed
+[2023-12-24 09:30:41.145] [debug] [WCF] [rpc_server.cpp::1011::RunServer] Leave RunServer
+[2023-12-24 09:30:42.161] [info] [WCF] [rpc_server.cpp::1038::RpcStopServer] Server stoped.
