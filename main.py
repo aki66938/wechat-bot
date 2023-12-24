@@ -3,7 +3,7 @@ from db.db import DBmanager
 
 # Execution Execution Execution Execution Execution Execution Execution Execution
 def main():
-    db = DBmanager("database.db")
+    db = DBmanager(".\db\database.db")
     robot = WeChatRobot(db) 
     robot.start() 
  
